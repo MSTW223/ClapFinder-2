@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">وين جوالي؟</string>
+    <string name="start">تشغيل الاستماع</string>
+    <string name="stop">إيقاف الاستماع</string>
+    <string name="status_on">يستمع للتصفيق الآن 👏👏</string>
+    <string name="status_off">متوقف</string>
+    <string name="need_mic">يلزم السماح بصلاحية الميكروفون ليعمل التطبيق</string>
+    <string name="sensitivity">حساسية التصفيق</string>
+    <string name="hint">صفّق مرتين ليرن الجوال ويومض الفلاش. صفّق مرتين مرة أخرى لإيقافه.</string>
+    <string name="notif_listening">يستمع للتصفيق…</string>
+    <string name="notif_ringing">الجوال يرن! صفّق مرتين لإيقافه</string>
+    <string name="stop_alarm">إيقاف التنبيه</string>
+    <string name="stop_service">إيقاف التطبيق</string>
+</resources>
